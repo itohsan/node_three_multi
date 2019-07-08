@@ -1,0 +1,17 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "description": ""
+}
